@@ -1,6 +1,6 @@
 {
   "development": {
-    "url": "YOUR_ELEPHANTSQL_URL_HERE",
+    "url": "postgres://zoozoxus:dgh9NFjaD31-x12XCjz8Vlc570LMDpaz@hattie.db.elephantsql.com/zoozoxus",
     "dialect": "postgres",
     "operatorsAliases": "0"
   },
